@@ -1,2 +1,1 @@
-# Home-page-of-youtube
-Collage project for youtube home page
+Images in assets folder are preview only & are downloaded from youtube i do not claim these images
